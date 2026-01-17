@@ -1,4 +1,4 @@
-# calculator.github.io
+# calculator
 <html lang="en">
 <head>
 <meta charset="UTF-8">
